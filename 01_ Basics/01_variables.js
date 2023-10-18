@@ -11,3 +11,5 @@ mail = "adfi@1919";
 state = "MP";
 
 console.table([ name , mail , state]);
+
+//prefer not to use var because of issue in block and functional scope
